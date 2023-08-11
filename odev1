@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Web Site</title>
+</head>
+<body>
+
+<h1>İdil ÖNCÜ</h1>
+<h3>HAKKIMDA</h3>
+    <p>Merhaba ben İdil! Web sitesileri ve mobil uygulamalar ile ilgilenmeyi seviyorum.Patikanın ilk ödevini yapmak heyecan verici</p>
+
+<h3>Sevdiğim Diziler/Filmler</h3>
+    <p>
+        <li>How I Met Your Mother</li>
+        <li>Gilmore Girls</li>
+        <li>Avrupa Yakası</li>
+        <li>Platform</li>
+        <li>Parasite</li>
+        <!--burada madde işaretini kullandım oncekı bılgılerımı kullandım-->
+    </p>
+    <p>İzlemekten zevk aldığım birkaç filmi ve diziyi yazdım.Sitcom izlemeyi seviyorum.Filmlerde ise sevdiğim belirli bir tür yok.</p>
+</body>
+</html>
